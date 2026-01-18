@@ -1,0 +1,27 @@
+{
+  "name": "WebShark",
+  "version": "1.0.0",
+  "description": "WebShark 是一款基于 Web 的网络流量分析工具",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static website built successfully'",
+    "dev": "echo 'Dev mode'"
+  },
+  "keywords": [
+    "WebShark",
+    "web-tool"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "jquery": "^3.7.1",
+    "jsdom": "^27.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "."
+}
